@@ -188,8 +188,44 @@ namespace project
             } */
 
 
-            /* Массивы данных */
-            Console.WriteLine("Hui");
+            /* Одномерные Массивы данных 
+            int[] iv = new int[4];
+            iv[0] = 4231231;
+            iv[1] = 42311;
+            iv[2] = 12;
+            iv[3] = 0;
+            Console.WriteLine(iv[2]);
+
+            Random random = new Random();
+            byte[] awp = new byte[10];
+            short sum = 0;
+            for (byte i = 0; i < awp.Length; i++)
+            {
+                awp[i] = Convert.ToByte(random.Next(12, 123));
+                sum += awp[i];
+                Console.WriteLine(awp[i]);
+            }
+            Console.WriteLine(sum);*/
+
+            // Многомерные массивы данных
+            /*int[,] symb = new int[4, 3];
+            byte[,] huysosethr = new byte[,]
+            {
+                {1,2,3},
+                {1,2,3},
+                {1,2,3}
+            };
+            symb[0, 0] = 'a';
+            Random ran = new Random();
+            for (int i = 0; i < symb.GetLength(0); i++)
+            {
+                for (int a = 0; a < symb.GetLength(1); a++)
+                {
+                    symb[i, a] = ran.Next(0, 14);
+                    Console.Write(symb[i, a] + " |");
+                }
+                Console.Write("\n");
+            }*/
         }
     }
 }
