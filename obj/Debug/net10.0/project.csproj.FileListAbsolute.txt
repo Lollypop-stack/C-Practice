@@ -1,0 +1,14 @@
+C:\Рабочий стол\project\bin\Debug\net10.0\project.exe
+C:\Рабочий стол\project\bin\Debug\net10.0\project.deps.json
+C:\Рабочий стол\project\bin\Debug\net10.0\project.runtimeconfig.json
+C:\Рабочий стол\project\bin\Debug\net10.0\project.dll
+C:\Рабочий стол\project\bin\Debug\net10.0\project.pdb
+C:\Рабочий стол\project\obj\Debug\net10.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочий стол\project\obj\Debug\net10.0\project.AssemblyInfoInputs.cache
+C:\Рабочий стол\project\obj\Debug\net10.0\project.AssemblyInfo.cs
+C:\Рабочий стол\project\obj\Debug\net10.0\project.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\project\obj\Debug\net10.0\project.dll
+C:\Рабочий стол\project\obj\Debug\net10.0\refint\project.dll
+C:\Рабочий стол\project\obj\Debug\net10.0\project.pdb
+C:\Рабочий стол\project\obj\Debug\net10.0\project.genruntimeconfig.cache
+C:\Рабочий стол\project\obj\Debug\net10.0\ref\project.dll
