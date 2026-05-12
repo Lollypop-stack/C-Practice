@@ -189,7 +189,7 @@ namespace project
 
 
             /* Массивы данных */
-
+            Console.WriteLine("Hui");
         }
     }
 }
